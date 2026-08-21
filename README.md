@@ -2,7 +2,7 @@
 This repository contains the code, simulated datasets and the results used in the analysis performed for the MSc thesis in Statistics at Imperial College London.
 
 In conducting this research, we made use of the following Python packages:
-1. Lightkurve: a Python package for Kepler and TESS data analysis (Lightkurve Collaboration et al., 2018);
+1. [Lightkurve](https://lightkurve.github.io/lightkurve/index.html): a Python package for Kepler and TESS data analysis (Lightkurve Collaboration et al., 2018);
 2. [Astropy](https://www.astropy.org): a community-developed core Python package and an ecosystem of tools and resources for astronomy.
 
 ## References
