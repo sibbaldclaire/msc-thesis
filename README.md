@@ -1,2 +1,2 @@
 # msc-thesis
-Python scripts and Jupyter notebooks used in the completion MSc thesis in Statistics at Imperial College London 
+This repository contains both the code and the simulated datasets used in the analysis performed for the MSc thesis in Statistics at Imperial College London.
